@@ -4,3 +4,5 @@
 # Code Environment
 * Windows 10
 * keil uVision5
+* Stc-isp(V6.88J).exe
+* Music software provided by the video author
